@@ -2,5 +2,9 @@
   {
     "package": "marronniers",
     "url": "https://github.com/tresor4k/marronniers-r"
+  },
+  {
+    "package": "frbaremekm",
+    "url": "https://github.com/tresor4k/fr-bareme-km-r"
   }
 ]
