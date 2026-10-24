@@ -10,5 +10,9 @@
   {
     "package": "wh347",
     "url": "https://github.com/tresor4k/wh347-r"
+  },
+  {
+    "package": "calculiva",
+    "url": "https://github.com/calculiva/calculiva-r"
   }
 ]
